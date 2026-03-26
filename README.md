@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+IoT+%7C+Networking;Always+Learning+%F0%9F%93%9A;Building+One+Circuit+at+a+Time+%F0%9F%94%A7" alt="Typing SVG" />
 </p>
 ---
+
 👨‍💻 About Me
 🎓 B.E. / B.Tech student in Electronics & Communication Engineering
 🔭 Currently exploring Embedded Systems, IoT, and Computer Networks
@@ -17,6 +18,7 @@
 💡 Always curious about how hardware and software connect
 📫 Reach me on GitHub: @MOGALASHIQ
 ---
+
 🛠️ Skills & Tools
 Languages
 <p>
@@ -66,6 +68,7 @@ Project	Description	Tools
 ---
 🗺️ My Learning Roadmap
 ```
+
 2024 ──────────────────────────────────────────────── 2025
   │                                                     │
   ✅ Computer Networks (Cisco Packet Tracer + Wireshark)│
